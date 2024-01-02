@@ -1,5 +1,5 @@
 # BNB Chain Tutorials
-Blockchain tutorials using BNB Chain. Learn how to build Decentralized Applications (Dapps) on BNB Chain and Solidity Smart contracts.
+Blockchain tutorials using BNB Chain. Learn how to build Decentralized Applications (Dapps) on BNB Chain and Solidity Smart contracts
 
 Covers:
 - BNB Chain
